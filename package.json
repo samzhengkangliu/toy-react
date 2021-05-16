@@ -1,0 +1,28 @@
+{
+  "name": "toy-react",
+  "version": "1.0.0",
+  "description": "A Toy React project that simulates React",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samzhengkangliu/toy-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samzhengkangliu/toy-react/issues"
+  },
+  "homepage": "https://github.com/samzhengkangliu/toy-react#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.14.2",
+    "@babel/plugin-transform-react-jsx": "^7.13.12",
+    "@babel/preset-env": "^7.14.2",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  }
+}
